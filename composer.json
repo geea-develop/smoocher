@@ -7,7 +7,7 @@
     "require": {
         "php": ">=7.0.0",
         "fideloper/proxy": "3.3.4",
-        "guzzlehttp/guzzle": "6.3.0",
+        "guzzlehttp/guzzle": "6.5.2",
         "laravel/framework": "5.5.28",
         "laravel/tinker": "1.0.3"
     },
